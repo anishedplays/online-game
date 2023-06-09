@@ -1,5 +1,5 @@
 import socket
-import _thread
+from _thread import *
 import sys
 
 server = "192.168.43.65"
